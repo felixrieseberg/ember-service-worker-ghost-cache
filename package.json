@@ -1,6 +1,6 @@
 {
   "name": "ember-service-worker-ghost-cache",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An Ember Service Worker plugin for Ghost Admin",
   "directories": {
     "doc": "doc",
